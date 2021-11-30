@@ -1,0 +1,613 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="14" />
+      <type value="JavaSDK" />
+      <version value="java version &quot;14.0.1&quot;" />
+      <homePath value="/Library/Java/JavaVirtualMachines/openjdk.jdk/Contents/Home" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root url="jar://$APPLICATION_HOME_DIR$/plugins/java/lib/jdkAnnotations.jar!/" type="simple" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="jrt:///Library/Java/JavaVirtualMachines/openjdk.jdk/Contents/Home!/java.base" type="simple" />
+            <root url="jrt:///Library/Java/JavaVirtualMachines/openjdk.jdk/Contents/Home!/java.compiler" type="simple" />
+            <root url="jrt:///Library/Java/JavaVirtualMachines/openjdk.jdk/Contents/Home!/java.datatransfer" type="simple" />
+            <root url="jrt:///Library/Java/JavaVirtualMachines/openjdk.jdk/Contents/Home!/java.desktop" type="simple" />
+            <root url="jrt:///Library/Java/JavaVirtualMachines/openjdk.jdk/Contents/Home!/java.instrument" type="simple" />
+            <root url="jrt:///Library/Java/JavaVirtualMachines/openjdk.jdk/Contents/Home!/java.logging" type="simple" />
+            <root url="jrt:///Library/Java/JavaVirtualMachines/openjdk.jdk/Contents/Home!/java.management" type="simple" />
+            <root url="jrt:///Library/Java/JavaVirtualMachines/openjdk.jdk/Contents/Home!/java.management.rmi" type="simple" />
+            <root url="jrt:///Library/Java/JavaVirtualMachines/openjdk.jdk/Contents/Home!/java.naming" type="simple" />
+            <root url="jrt:///Library/Java/JavaVirtualMachines/openjdk.jdk/Contents/Home!/java.net.http" type="simple" />
+            <root url="jrt:///Library/Java/JavaVirtualMachines/openjdk.jdk/Contents/Home!/java.prefs" type="simple" />
+            <root url="jrt:///Library/Java/JavaVirtualMachines/openjdk.jdk/Contents/Home!/java.rmi" type="simple" />
+            <root url="jrt:///Library/Java/JavaVirtualMachines/openjdk.jdk/Contents/Home!/java.scripting" type="simple" />
+            <root url="jrt:///Library/Java/JavaVirtualMachines/openjdk.jdk/Contents/Home!/java.se" type="simple" />
+            <root url="jrt:///Library/Java/JavaVirtualMachines/openjdk.jdk/Contents/Home!/java.security.jgss" type="simple" />
+            <root url="jrt:///Library/Java/JavaVirtualMachines/openjdk.jdk/Contents/Home!/java.security.sasl" type="simple" />
+            <root url="jrt:///Library/Java/JavaVirtualMachines/openjdk.jdk/Contents/Home!/java.smartcardio" type="simple" />
+            <root url="jrt:///Library/Java/JavaVirtualMachines/openjdk.jdk/Contents/Home!/java.sql" type="simple" />
+            <root url="jrt:///Library/Java/JavaVirtualMachines/openjdk.jdk/Contents/Home!/java.sql.rowset" type="simple" />
+            <root url="jrt:///Library/Java/JavaVirtualMachines/openjdk.jdk/Contents/Home!/java.transaction.xa" type="simple" />
+            <root url="jrt:///Library/Java/JavaVirtualMachines/openjdk.jdk/Contents/Home!/java.xml" type="simple" />
+            <root url="jrt:///Library/Java/JavaVirtualMachines/openjdk.jdk/Contents/Home!/java.xml.crypto" type="simple" />
+            <root url="jrt:///Library/Java/JavaVirtualMachines/openjdk.jdk/Contents/Home!/jdk.accessibility" type="simple" />
+            <root url="jrt:///Library/Java/JavaVirtualMachines/openjdk.jdk/Contents/Home!/jdk.aot" type="simple" />
+            <root url="jrt:///Library/Java/JavaVirtualMachines/openjdk.jdk/Contents/Home!/jdk.attach" type="simple" />
+            <root url="jrt:///Library/Java/JavaVirtualMachines/openjdk.jdk/Contents/Home!/jdk.charsets" type="simple" />
+            <root url="jrt:///Library/Java/JavaVirtualMachines/openjdk.jdk/Contents/Home!/jdk.compiler" type="simple" />
+            <root url="jrt:///Library/Java/JavaVirtualMachines/openjdk.jdk/Contents/Home!/jdk.crypto.cryptoki" type="simple" />
+            <root url="jrt:///Library/Java/JavaVirtualMachines/openjdk.jdk/Contents/Home!/jdk.crypto.ec" type="simple" />
+            <root url="jrt:///Library/Java/JavaVirtualMachines/openjdk.jdk/Contents/Home!/jdk.dynalink" type="simple" />
+            <root url="jrt:///Library/Java/JavaVirtualMachines/openjdk.jdk/Contents/Home!/jdk.editpad" type="simple" />
+            <root url="jrt:///Library/Java/JavaVirtualMachines/openjdk.jdk/Contents/Home!/jdk.hotspot.agent" type="simple" />
+            <root url="jrt:///Library/Java/JavaVirtualMachines/openjdk.jdk/Contents/Home!/jdk.httpserver" type="simple" />
+            <root url="jrt:///Library/Java/JavaVirtualMachines/openjdk.jdk/Contents/Home!/jdk.incubator.foreign" type="simple" />
+            <root url="jrt:///Library/Java/JavaVirtualMachines/openjdk.jdk/Contents/Home!/jdk.incubator.jpackage" type="simple" />
+            <root url="jrt:///Library/Java/JavaVirtualMachines/openjdk.jdk/Contents/Home!/jdk.internal.ed" type="simple" />
+            <root url="jrt:///Library/Java/JavaVirtualMachines/openjdk.jdk/Contents/Home!/jdk.internal.jvmstat" type="simple" />
+            <root url="jrt:///Library/Java/JavaVirtualMachines/openjdk.jdk/Contents/Home!/jdk.internal.le" type="simple" />
+            <root url="jrt:///Library/Java/JavaVirtualMachines/openjdk.jdk/Contents/Home!/jdk.internal.opt" type="simple" />
+            <root url="jrt:///Library/Java/JavaVirtualMachines/openjdk.jdk/Contents/Home!/jdk.internal.vm.ci" type="simple" />
+            <root url="jrt:///Library/Java/JavaVirtualMachines/openjdk.jdk/Contents/Home!/jdk.internal.vm.compiler" type="simple" />
+            <root url="jrt:///Library/Java/JavaVirtualMachines/openjdk.jdk/Contents/Home!/jdk.internal.vm.compiler.management" type="simple" />
+            <root url="jrt:///Library/Java/JavaVirtualMachines/openjdk.jdk/Contents/Home!/jdk.jartool" type="simple" />
+            <root url="jrt:///Library/Java/JavaVirtualMachines/openjdk.jdk/Contents/Home!/jdk.javadoc" type="simple" />
+            <root url="jrt:///Library/Java/JavaVirtualMachines/openjdk.jdk/Contents/Home!/jdk.jcmd" type="simple" />
+            <root url="jrt:///Library/Java/JavaVirtualMachines/openjdk.jdk/Contents/Home!/jdk.jconsole" type="simple" />
+            <root url="jrt:///Library/Java/JavaVirtualMachines/openjdk.jdk/Contents/Home!/jdk.jdeps" type="simple" />
+            <root url="jrt:///Library/Java/JavaVirtualMachines/openjdk.jdk/Contents/Home!/jdk.jdi" type="simple" />
+            <root url="jrt:///Library/Java/JavaVirtualMachines/openjdk.jdk/Contents/Home!/jdk.jdwp.agent" type="simple" />
+            <root url="jrt:///Library/Java/JavaVirtualMachines/openjdk.jdk/Contents/Home!/jdk.jfr" type="simple" />
+            <root url="jrt:///Library/Java/JavaVirtualMachines/openjdk.jdk/Contents/Home!/jdk.jlink" type="simple" />
+            <root url="jrt:///Library/Java/JavaVirtualMachines/openjdk.jdk/Contents/Home!/jdk.jshell" type="simple" />
+            <root url="jrt:///Library/Java/JavaVirtualMachines/openjdk.jdk/Contents/Home!/jdk.jsobject" type="simple" />
+            <root url="jrt:///Library/Java/JavaVirtualMachines/openjdk.jdk/Contents/Home!/jdk.jstatd" type="simple" />
+            <root url="jrt:///Library/Java/JavaVirtualMachines/openjdk.jdk/Contents/Home!/jdk.localedata" type="simple" />
+            <root url="jrt:///Library/Java/JavaVirtualMachines/openjdk.jdk/Contents/Home!/jdk.management" type="simple" />
+            <root url="jrt:///Library/Java/JavaVirtualMachines/openjdk.jdk/Contents/Home!/jdk.management.agent" type="simple" />
+            <root url="jrt:///Library/Java/JavaVirtualMachines/openjdk.jdk/Contents/Home!/jdk.management.jfr" type="simple" />
+            <root url="jrt:///Library/Java/JavaVirtualMachines/openjdk.jdk/Contents/Home!/jdk.naming.dns" type="simple" />
+            <root url="jrt:///Library/Java/JavaVirtualMachines/openjdk.jdk/Contents/Home!/jdk.naming.rmi" type="simple" />
+            <root url="jrt:///Library/Java/JavaVirtualMachines/openjdk.jdk/Contents/Home!/jdk.net" type="simple" />
+            <root url="jrt:///Library/Java/JavaVirtualMachines/openjdk.jdk/Contents/Home!/jdk.nio.mapmode" type="simple" />
+            <root url="jrt:///Library/Java/JavaVirtualMachines/openjdk.jdk/Contents/Home!/jdk.sctp" type="simple" />
+            <root url="jrt:///Library/Java/JavaVirtualMachines/openjdk.jdk/Contents/Home!/jdk.security.auth" type="simple" />
+            <root url="jrt:///Library/Java/JavaVirtualMachines/openjdk.jdk/Contents/Home!/jdk.security.jgss" type="simple" />
+            <root url="jrt:///Library/Java/JavaVirtualMachines/openjdk.jdk/Contents/Home!/jdk.unsupported" type="simple" />
+            <root url="jrt:///Library/Java/JavaVirtualMachines/openjdk.jdk/Contents/Home!/jdk.unsupported.desktop" type="simple" />
+            <root url="jrt:///Library/Java/JavaVirtualMachines/openjdk.jdk/Contents/Home!/jdk.xml.dom" type="simple" />
+            <root url="jrt:///Library/Java/JavaVirtualMachines/openjdk.jdk/Contents/Home!/jdk.zipfs" type="simple" />
+            <root url="jrt:///Library/Java/JavaVirtualMachines/openjdk.jdk/Contents/Home!/jdk.rmic" type="simple" />
+            <root url="jrt:///Library/Java/JavaVirtualMachines/openjdk.jdk/Contents/Home!/jdk.scripting.nashorn" type="simple" />
+            <root url="jrt:///Library/Java/JavaVirtualMachines/openjdk.jdk/Contents/Home!/jdk.scripting.nashorn.shell" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root url="jar:///Library/Java/JavaVirtualMachines/openjdk.jdk/Contents/Home/lib/src.zip!/java.se" type="simple" />
+            <root url="jar:///Library/Java/JavaVirtualMachines/openjdk.jdk/Contents/Home/lib/src.zip!/jdk.aot" type="simple" />
+            <root url="jar:///Library/Java/JavaVirtualMachines/openjdk.jdk/Contents/Home/lib/src.zip!/jdk.jdi" type="simple" />
+            <root url="jar:///Library/Java/JavaVirtualMachines/openjdk.jdk/Contents/Home/lib/src.zip!/jdk.jfr" type="simple" />
+            <root url="jar:///Library/Java/JavaVirtualMachines/openjdk.jdk/Contents/Home/lib/src.zip!/jdk.net" type="simple" />
+            <root url="jar:///Library/Java/JavaVirtualMachines/openjdk.jdk/Contents/Home/lib/src.zip!/java.rmi" type="simple" />
+            <root url="jar:///Library/Java/JavaVirtualMachines/openjdk.jdk/Contents/Home/lib/src.zip!/java.sql" type="simple" />
+            <root url="jar:///Library/Java/JavaVirtualMachines/openjdk.jdk/Contents/Home/lib/src.zip!/java.xml" type="simple" />
+            <root url="jar:///Library/Java/JavaVirtualMachines/openjdk.jdk/Contents/Home/lib/src.zip!/jdk.jcmd" type="simple" />
+            <root url="jar:///Library/Java/JavaVirtualMachines/openjdk.jdk/Contents/Home/lib/src.zip!/jdk.rmic" type="simple" />
+            <root url="jar:///Library/Java/JavaVirtualMachines/openjdk.jdk/Contents/Home/lib/src.zip!/jdk.sctp" type="simple" />
+            <root url="jar:///Library/Java/JavaVirtualMachines/openjdk.jdk/Contents/Home/lib/src.zip!/java.base" type="simple" />
+            <root url="jar:///Library/Java/JavaVirtualMachines/openjdk.jdk/Contents/Home/lib/src.zip!/jdk.jdeps" type="simple" />
+            <root url="jar:///Library/Java/JavaVirtualMachines/openjdk.jdk/Contents/Home/lib/src.zip!/jdk.jlink" type="simple" />
+            <root url="jar:///Library/Java/JavaVirtualMachines/openjdk.jdk/Contents/Home/lib/src.zip!/jdk.zipfs" type="simple" />
+            <root url="jar:///Library/Java/JavaVirtualMachines/openjdk.jdk/Contents/Home/lib/src.zip!/java.prefs" type="simple" />
+            <root url="jar:///Library/Java/JavaVirtualMachines/openjdk.jdk/Contents/Home/lib/src.zip!/jdk.attach" type="simple" />
+            <root url="jar:///Library/Java/JavaVirtualMachines/openjdk.jdk/Contents/Home/lib/src.zip!/jdk.jshell" type="simple" />
+            <root url="jar:///Library/Java/JavaVirtualMachines/openjdk.jdk/Contents/Home/lib/src.zip!/jdk.jstatd" type="simple" />
+            <root url="jar:///Library/Java/JavaVirtualMachines/openjdk.jdk/Contents/Home/lib/src.zip!/java.naming" type="simple" />
+            <root url="jar:///Library/Java/JavaVirtualMachines/openjdk.jdk/Contents/Home/lib/src.zip!/jdk.editpad" type="simple" />
+            <root url="jar:///Library/Java/JavaVirtualMachines/openjdk.jdk/Contents/Home/lib/src.zip!/jdk.jartool" type="simple" />
+            <root url="jar:///Library/Java/JavaVirtualMachines/openjdk.jdk/Contents/Home/lib/src.zip!/jdk.javadoc" type="simple" />
+            <root url="jar:///Library/Java/JavaVirtualMachines/openjdk.jdk/Contents/Home/lib/src.zip!/jdk.xml.dom" type="simple" />
+            <root url="jar:///Library/Java/JavaVirtualMachines/openjdk.jdk/Contents/Home/lib/src.zip!/java.desktop" type="simple" />
+            <root url="jar:///Library/Java/JavaVirtualMachines/openjdk.jdk/Contents/Home/lib/src.zip!/java.logging" type="simple" />
+            <root url="jar:///Library/Java/JavaVirtualMachines/openjdk.jdk/Contents/Home/lib/src.zip!/jdk.charsets" type="simple" />
+            <root url="jar:///Library/Java/JavaVirtualMachines/openjdk.jdk/Contents/Home/lib/src.zip!/jdk.compiler" type="simple" />
+            <root url="jar:///Library/Java/JavaVirtualMachines/openjdk.jdk/Contents/Home/lib/src.zip!/jdk.dynalink" type="simple" />
+            <root url="jar:///Library/Java/JavaVirtualMachines/openjdk.jdk/Contents/Home/lib/src.zip!/jdk.jconsole" type="simple" />
+            <root url="jar:///Library/Java/JavaVirtualMachines/openjdk.jdk/Contents/Home/lib/src.zip!/jdk.jsobject" type="simple" />
+            <root url="jar:///Library/Java/JavaVirtualMachines/openjdk.jdk/Contents/Home/lib/src.zip!/java.compiler" type="simple" />
+            <root url="jar:///Library/Java/JavaVirtualMachines/openjdk.jdk/Contents/Home/lib/src.zip!/java.net.http" type="simple" />
+            <root url="jar:///Library/Java/JavaVirtualMachines/openjdk.jdk/Contents/Home/lib/src.zip!/jdk.crypto.ec" type="simple" />
+            <root url="jar:///Library/Java/JavaVirtualMachines/openjdk.jdk/Contents/Home/lib/src.zip!/java.scripting" type="simple" />
+            <root url="jar:///Library/Java/JavaVirtualMachines/openjdk.jdk/Contents/Home/lib/src.zip!/jdk.httpserver" type="simple" />
+            <root url="jar:///Library/Java/JavaVirtualMachines/openjdk.jdk/Contents/Home/lib/src.zip!/jdk.jdwp.agent" type="simple" />
+            <root url="jar:///Library/Java/JavaVirtualMachines/openjdk.jdk/Contents/Home/lib/src.zip!/jdk.localedata" type="simple" />
+            <root url="jar:///Library/Java/JavaVirtualMachines/openjdk.jdk/Contents/Home/lib/src.zip!/jdk.management" type="simple" />
+            <root url="jar:///Library/Java/JavaVirtualMachines/openjdk.jdk/Contents/Home/lib/src.zip!/jdk.naming.dns" type="simple" />
+            <root url="jar:///Library/Java/JavaVirtualMachines/openjdk.jdk/Contents/Home/lib/src.zip!/jdk.naming.rmi" type="simple" />
+            <root url="jar:///Library/Java/JavaVirtualMachines/openjdk.jdk/Contents/Home/lib/src.zip!/java.instrument" type="simple" />
+            <root url="jar:///Library/Java/JavaVirtualMachines/openjdk.jdk/Contents/Home/lib/src.zip!/java.management" type="simple" />
+            <root url="jar:///Library/Java/JavaVirtualMachines/openjdk.jdk/Contents/Home/lib/src.zip!/java.sql.rowset" type="simple" />
+            <root url="jar:///Library/Java/JavaVirtualMachines/openjdk.jdk/Contents/Home/lib/src.zip!/java.xml.crypto" type="simple" />
+            <root url="jar:///Library/Java/JavaVirtualMachines/openjdk.jdk/Contents/Home/lib/src.zip!/jdk.internal.ed" type="simple" />
+            <root url="jar:///Library/Java/JavaVirtualMachines/openjdk.jdk/Contents/Home/lib/src.zip!/jdk.internal.le" type="simple" />
+            <root url="jar:///Library/Java/JavaVirtualMachines/openjdk.jdk/Contents/Home/lib/src.zip!/jdk.nio.mapmode" type="simple" />
+            <root url="jar:///Library/Java/JavaVirtualMachines/openjdk.jdk/Contents/Home/lib/src.zip!/jdk.unsupported" type="simple" />
+            <root url="jar:///Library/Java/JavaVirtualMachines/openjdk.jdk/Contents/Home/lib/src.zip!/java.smartcardio" type="simple" />
+            <root url="jar:///Library/Java/JavaVirtualMachines/openjdk.jdk/Contents/Home/lib/src.zip!/jdk.internal.opt" type="simple" />
+            <root url="jar:///Library/Java/JavaVirtualMachines/openjdk.jdk/Contents/Home/lib/src.zip!/java.datatransfer" type="simple" />
+            <root url="jar:///Library/Java/JavaVirtualMachines/openjdk.jdk/Contents/Home/lib/src.zip!/jdk.accessibility" type="simple" />
+            <root url="jar:///Library/Java/JavaVirtualMachines/openjdk.jdk/Contents/Home/lib/src.zip!/jdk.hotspot.agent" type="simple" />
+            <root url="jar:///Library/Java/JavaVirtualMachines/openjdk.jdk/Contents/Home/lib/src.zip!/jdk.security.auth" type="simple" />
+            <root url="jar:///Library/Java/JavaVirtualMachines/openjdk.jdk/Contents/Home/lib/src.zip!/jdk.security.jgss" type="simple" />
+            <root url="jar:///Library/Java/JavaVirtualMachines/openjdk.jdk/Contents/Home/lib/src.zip!/java.security.jgss" type="simple" />
+            <root url="jar:///Library/Java/JavaVirtualMachines/openjdk.jdk/Contents/Home/lib/src.zip!/java.security.sasl" type="simple" />
+            <root url="jar:///Library/Java/JavaVirtualMachines/openjdk.jdk/Contents/Home/lib/src.zip!/jdk.internal.vm.ci" type="simple" />
+            <root url="jar:///Library/Java/JavaVirtualMachines/openjdk.jdk/Contents/Home/lib/src.zip!/jdk.management.jfr" type="simple" />
+            <root url="jar:///Library/Java/JavaVirtualMachines/openjdk.jdk/Contents/Home/lib/src.zip!/java.management.rmi" type="simple" />
+            <root url="jar:///Library/Java/JavaVirtualMachines/openjdk.jdk/Contents/Home/lib/src.zip!/java.transaction.xa" type="simple" />
+            <root url="jar:///Library/Java/JavaVirtualMachines/openjdk.jdk/Contents/Home/lib/src.zip!/jdk.crypto.cryptoki" type="simple" />
+            <root url="jar:///Library/Java/JavaVirtualMachines/openjdk.jdk/Contents/Home/lib/src.zip!/jdk.internal.jvmstat" type="simple" />
+            <root url="jar:///Library/Java/JavaVirtualMachines/openjdk.jdk/Contents/Home/lib/src.zip!/jdk.management.agent" type="simple" />
+            <root url="jar:///Library/Java/JavaVirtualMachines/openjdk.jdk/Contents/Home/lib/src.zip!/jdk.incubator.foreign" type="simple" />
+            <root url="jar:///Library/Java/JavaVirtualMachines/openjdk.jdk/Contents/Home/lib/src.zip!/jdk.scripting.nashorn" type="simple" />
+            <root url="jar:///Library/Java/JavaVirtualMachines/openjdk.jdk/Contents/Home/lib/src.zip!/jdk.incubator.jpackage" type="simple" />
+            <root url="jar:///Library/Java/JavaVirtualMachines/openjdk.jdk/Contents/Home/lib/src.zip!/jdk.unsupported.desktop" type="simple" />
+            <root url="jar:///Library/Java/JavaVirtualMachines/openjdk.jdk/Contents/Home/lib/src.zip!/jdk.internal.vm.compiler" type="simple" />
+            <root url="jar:///Library/Java/JavaVirtualMachines/openjdk.jdk/Contents/Home/lib/src.zip!/jdk.scripting.nashorn.shell" type="simple" />
+            <root url="jar:///Library/Java/JavaVirtualMachines/openjdk.jdk/Contents/Home/lib/src.zip!/jdk.internal.vm.compiler.management" type="simple" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="asdf: jruby-9.2.13.0" />
+      <type value="JRUBY_SDK" />
+      <version value="ver.9.2.13.0 (2.5.7) 9a89c94bcc OpenJDK 64-Bit Server VM 15.0.2+7 on 15.0.2+7 +jit p0" />
+      <homePath value="$USER_HOME$/.asdf/installs/ruby/jruby-9.2.13.0/bin/jruby" />
+      <roots>
+        <annotationsPath>
+          <root type="composite" />
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/.asdf/installs/ruby/jruby-9.2.13.0/lib/ruby/stdlib" type="simple" />
+            <root url="jar://$USER_HOME$/.asdf/installs/ruby/jruby-9.2.13.0/lib/jruby.jar!/jruby" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs25" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/.asdf/installs/ruby/jruby-9.2.13.0/lib/ruby/stdlib" type="simple" />
+            <root url="jar://$USER_HOME$/.asdf/installs/ruby/jruby-9.2.13.0/lib/jruby.jar!/jruby" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs25" type="simple" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional NORMALIZED_VERSION_STRING="ver.9.2.13.0 (2.5.7) 9a89c94bcc OpenJDK 64-Bit Server VM 15.0.2+7 on 15.0.2+7 +jit p0" version="1" GEMS_BIN_DIR_PATH="$USER_HOME$/.asdf/installs/ruby/jruby-9.2.13.0/bin">
+        <VERSION_MANAGER ID="asdf">
+          <distribution-id>jruby-9.2.13.0</distribution-id>
+          <version-manager-path>/usr/local/Cellar/asdf/0.8.0_1/bin/asdf</version-manager-path>
+        </VERSION_MANAGER>
+        <RbConfig>
+          <item key="DLEXT" value="jar" />
+          <item key="LIBRUBY" value="jruby.jar" />
+          <item key="LIBRUBY_ALIASES" value="jruby.jar" />
+          <item key="LIBRUBY_SO" value="jruby.jar" />
+          <item key="MAJOR" value="2" />
+          <item key="MINOR" value="5" />
+          <item key="RUBYW_INSTALL_NAME" value="jruby" />
+          <item key="RUBY_INSTALL_NAME" value="jruby" />
+          <item key="SHELL" value="/bin/sh" />
+          <item key="TEENY" value="7" />
+          <item key="arch" value="universal-java15" />
+          <item key="archdir" value="$USER_HOME$/.asdf/installs/ruby/jruby-9.2.13.0/lib/ruby/stdlib" />
+          <item key="bindir" value="$USER_HOME$/.asdf/installs/ruby/jruby-9.2.13.0/bin" />
+          <item key="build" value="java1.8" />
+          <item key="datadir" value="$USER_HOME$/.asdf/installs/ruby/jruby-9.2.13.0/share" />
+          <item key="exec_prefix" value="$USER_HOME$/.asdf/installs/ruby/jruby-9.2.13.0" />
+          <item key="host" value="darwin-N/A-x86_64" />
+          <item key="host_alias" value="darwin-N/A-x86_64" />
+          <item key="host_cpu" value="x86_64" />
+          <item key="host_os" value="darwin" />
+          <item key="host_vendor" value="N/A" />
+          <item key="includedir" value="$USER_HOME$/.asdf/installs/ruby/jruby-9.2.13.0/lib/ruby/include" />
+          <item key="joda-time.version" value="2.10.5" />
+          <item key="libdir" value="$USER_HOME$/.asdf/installs/ruby/jruby-9.2.13.0/lib" />
+          <item key="localstatedir" value="$USER_HOME$/.asdf/installs/ruby/jruby-9.2.13.0/var" />
+          <item key="mandir" value="$USER_HOME$/.asdf/installs/ruby/jruby-9.2.13.0/man" />
+          <item key="prefix" value="$USER_HOME$/.asdf/installs/ruby/jruby-9.2.13.0" />
+          <item key="ridir" value="$USER_HOME$/.asdf/installs/ruby/jruby-9.2.13.0/share/ri" />
+          <item key="ruby_install_name" value="jruby" />
+          <item key="ruby_version" value="2.5.0" />
+          <item key="rubyhdrdir" value="$USER_HOME$/.asdf/installs/ruby/jruby-9.2.13.0/lib/ruby/include" />
+          <item key="rubylibdir" value="$USER_HOME$/.asdf/installs/ruby/jruby-9.2.13.0/lib/ruby/stdlib" />
+          <item key="rubylibprefix" value="$USER_HOME$/.asdf/installs/ruby/jruby-9.2.13.0/lib/ruby" />
+          <item key="rubysharedlibdir" value="$USER_HOME$/.asdf/installs/ruby/jruby-9.2.13.0/lib/ruby/shared" />
+          <item key="rubyw_install_name" value="jruby" />
+          <item key="sitearch" value="java" />
+          <item key="sitearchdir" value="$USER_HOME$/.asdf/installs/ruby/jruby-9.2.13.0/lib/ruby/2.5/site_ruby" />
+          <item key="sitedir" value="$USER_HOME$/.asdf/installs/ruby/jruby-9.2.13.0/lib/ruby/2.5/site_ruby" />
+          <item key="sitelibdir" value="$USER_HOME$/.asdf/installs/ruby/jruby-9.2.13.0/lib/ruby/2.5/site_ruby" />
+          <item key="sysconfdir" value="$USER_HOME$/.asdf/installs/ruby/jruby-9.2.13.0/etc" />
+          <item key="target" value="java1.8" />
+          <item key="target_cpu" value="x86_64" />
+          <item key="target_os" value="darwin" />
+          <item key="topdir" value="$USER_HOME$/.asdf/installs/ruby/jruby-9.2.13.0/lib/ruby/stdlib" />
+          <item key="tzdata.version" value="2019c" />
+        </RbConfig>
+      </additional>
+    </jdk>
+    <jdk version="2">
+      <name value="Erlang for Elixir 24" />
+      <type value="Erlang SDK for Elixir SDK" />
+      <version value="24" />
+      <homePath value="$USER_HOME$/.asdf/installs/erlang/24.1.6" />
+      <roots>
+        <annotationsPath>
+          <root type="composite" />
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/.asdf/installs/erlang/24.1.6/lib/os_mon-2.7.1/ebin" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/erlang/24.1.6/lib/diameter-2.2.4/ebin" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/erlang/24.1.6/lib/tools-3.5.1/ebin" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/erlang/24.1.6/lib/ssl-10.5.3/ebin" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/erlang/24.1.6/lib/erts-12.1.5/ebin" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/erlang/24.1.6/lib/tftp-1.0.3/ebin" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/erlang/24.1.6/lib/mnesia-4.20/ebin" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/erlang/24.1.6/lib/edoc-1.0.1/ebin" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/erlang/24.1.6/lib/debugger-5.2/ebin" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/erlang/24.1.6/lib/xmerl-1.3.28/ebin" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/erlang/24.1.6/lib/ftp-1.1/ebin" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/erlang/24.1.6/lib/asn1-5.0.17/ebin" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/erlang/24.1.6/lib/syntax_tools-2.6/ebin" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/erlang/24.1.6/lib/ssh-4.12.4/ebin" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/erlang/24.1.6/lib/megaco-4.1/ebin" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/erlang/24.1.6/lib/public_key-1.11.3/ebin" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/erlang/24.1.6/lib/kernel-8.1.3/ebin" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/erlang/24.1.6/lib/eunit-2.7/ebin" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/erlang/24.1.6/lib/et-1.6.5/ebin" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/erlang/24.1.6/lib/observer-2.10/ebin" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/erlang/24.1.6/lib/parsetools-2.3.1/ebin" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/erlang/24.1.6/lib/erl_interface-5.1/ebin" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/erlang/24.1.6/lib/eldap-1.2.9/ebin" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/erlang/24.1.6/lib/reltool-0.9/ebin" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/erlang/24.1.6/lib/snmp-5.10.1/ebin" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/erlang/24.1.6/lib/wx-2.1/ebin" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/erlang/24.1.6/lib/stdlib-3.16.1/ebin" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/erlang/24.1.6/lib/runtime_tools-1.17/ebin" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/erlang/24.1.6/lib/inets-7.4.2/ebin" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/erlang/24.1.6/lib/erl_docgen-1.1.2/ebin" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/erlang/24.1.6/lib/compiler-8.0.3/ebin" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/erlang/24.1.6/lib/crypto-5.0.4/ebin" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/erlang/24.1.6/lib/sasl-4.1/ebin" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/erlang/24.1.6/lib/common_test-1.21/ebin" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/erlang/24.1.6/lib/dialyzer-4.4.2/ebin" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Elixir 1.11.1-otp-23" />
+      <type value="Elixir SDK" />
+      <version value="1.11.1-otp-23" />
+      <homePath value="$USER_HOME$/.asdf/installs/elixir/1.11.1-otp-23" />
+      <roots>
+        <annotationsPath>
+          <root type="composite" />
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/.asdf/installs/elixir/1.11.1-otp-23/lib/logger/ebin" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/elixir/1.11.1-otp-23/lib/elixir/ebin" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/elixir/1.11.1-otp-23/lib/ex_unit/ebin" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/elixir/1.11.1-otp-23/lib/mix/ebin" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/elixir/1.11.1-otp-23/lib/eex/ebin" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/elixir/1.11.1-otp-23/lib/iex/ebin" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/erlang/23.1.1/lib/ssh-4.10.2/ebin" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/erlang/23.1.1/lib/megaco-3.19.3/ebin" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/erlang/23.1.1/lib/diameter-2.2.3/ebin" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/erlang/23.1.1/lib/tftp-1.0.2/ebin" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/erlang/23.1.1/lib/hipe-4.0.1/ebin" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/erlang/23.1.1/lib/ssl-10.1/ebin" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/erlang/23.1.1/lib/odbc-2.13.1/ebin" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/erlang/23.1.1/lib/mnesia-4.18/ebin" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/erlang/23.1.1/lib/wx-1.9.1/ebin" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/erlang/23.1.1/lib/erl_interface-4.0.1/ebin" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/erlang/23.1.1/lib/crypto-4.8/ebin" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/erlang/23.1.1/lib/jinterface-1.11/ebin" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/erlang/23.1.1/lib/edoc-0.12/ebin" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/erlang/23.1.1/lib/ftp-1.0.5/ebin" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/erlang/23.1.1/lib/stdlib-3.13.2/ebin" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/erlang/23.1.1/lib/compiler-7.6.4/ebin" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/erlang/23.1.1/lib/inets-7.3/ebin" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/erlang/23.1.1/lib/syntax_tools-2.3.1/ebin" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/erlang/23.1.1/lib/erts-11.1.1/ebin" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/erlang/23.1.1/lib/erl_docgen-1.0.1/ebin" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/erlang/23.1.1/lib/eunit-2.6/ebin" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/erlang/23.1.1/lib/parsetools-2.2/ebin" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/erlang/23.1.1/lib/et-1.6.4/ebin" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/erlang/23.1.1/lib/public_key-1.9.1/ebin" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/erlang/23.1.1/lib/os_mon-2.6.1/ebin" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/erlang/23.1.1/lib/debugger-5.0/ebin" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/erlang/23.1.1/lib/kernel-7.1/ebin" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/erlang/23.1.1/lib/reltool-0.8/ebin" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/erlang/23.1.1/lib/snmp-5.6.1/ebin" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/erlang/23.1.1/lib/eldap-1.2.8/ebin" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/erlang/23.1.1/lib/sasl-4.0.1/ebin" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/erlang/23.1.1/lib/asn1-5.0.14/ebin" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/erlang/23.1.1/lib/tools-3.4.1/ebin" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/erlang/23.1.1/lib/dialyzer-4.2.1/ebin" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/erlang/23.1.1/lib/xmerl-1.3.25/ebin" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/erlang/23.1.1/lib/common_test-1.19/ebin" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/erlang/23.1.1/lib/runtime_tools-1.15.1/ebin" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/erlang/23.1.1/lib/observer-2.9.5/ebin" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite">
+            <root url="https://hexdoc.pm/elixir/1.11.1-otp-23" type="simple" />
+            <root url="https://hexdoc.pm/ex_unit/1.11.1-otp-23" type="simple" />
+            <root url="https://hexdoc.pm/mix/1.11.1-otp-23" type="simple" />
+            <root url="https://hexdoc.pm/eex/1.11.1-otp-23" type="simple" />
+            <root url="https://hexdoc.pm/iex/1.11.1-otp-23" type="simple" />
+            <root url="http://www.erlang.org/documentation/doc-12.1.5" type="simple" />
+            <root url="https://hexdoc.pm/logger/1.11.1-otp-23" type="simple" />
+          </root>
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/.asdf/installs/elixir/1.11.1-otp-23/lib/logger/lib" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/elixir/1.11.1-otp-23/lib/elixir/lib" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/elixir/1.11.1-otp-23/lib/ex_unit/lib" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/elixir/1.11.1-otp-23/lib/mix/lib" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/elixir/1.11.1-otp-23/lib/eex/lib" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/elixir/1.11.1-otp-23/lib/iex/lib" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/erlang/24.1.6/lib" type="simple" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional erlang-sdk-name="Erlang for Elixir 23" />
+    </jdk>
+    <jdk version="2">
+      <name value="Elixir 1.12.3-otp-23" />
+      <type value="Elixir SDK" />
+      <homePath value="$USER_HOME$/.asdf/installs/elixir/1.12.3-otp-23" />
+      <roots>
+        <annotationsPath>
+          <root type="composite" />
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/.asdf/installs/elixir/1.12.3-otp-23/lib/logger/ebin" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/elixir/1.12.3-otp-23/lib/elixir/ebin" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/elixir/1.12.3-otp-23/lib/ex_unit/ebin" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/elixir/1.12.3-otp-23/lib/mix/ebin" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/elixir/1.12.3-otp-23/lib/eex/ebin" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/elixir/1.12.3-otp-23/lib/iex/ebin" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/erlang/23.1.1/lib/ssh-4.10.2/ebin" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/erlang/23.1.1/lib/megaco-3.19.3/ebin" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/erlang/23.1.1/lib/diameter-2.2.3/ebin" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/erlang/23.1.1/lib/tftp-1.0.2/ebin" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/erlang/23.1.1/lib/hipe-4.0.1/ebin" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/erlang/23.1.1/lib/ssl-10.1/ebin" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/erlang/23.1.1/lib/odbc-2.13.1/ebin" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/erlang/23.1.1/lib/mnesia-4.18/ebin" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/erlang/23.1.1/lib/wx-1.9.1/ebin" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/erlang/23.1.1/lib/erl_interface-4.0.1/ebin" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/erlang/23.1.1/lib/crypto-4.8/ebin" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/erlang/23.1.1/lib/jinterface-1.11/ebin" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/erlang/23.1.1/lib/edoc-0.12/ebin" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/erlang/23.1.1/lib/ftp-1.0.5/ebin" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/erlang/23.1.1/lib/stdlib-3.13.2/ebin" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/erlang/23.1.1/lib/compiler-7.6.4/ebin" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/erlang/23.1.1/lib/inets-7.3/ebin" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/erlang/23.1.1/lib/syntax_tools-2.3.1/ebin" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/erlang/23.1.1/lib/erts-11.1.1/ebin" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/erlang/23.1.1/lib/erl_docgen-1.0.1/ebin" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/erlang/23.1.1/lib/eunit-2.6/ebin" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/erlang/23.1.1/lib/parsetools-2.2/ebin" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/erlang/23.1.1/lib/et-1.6.4/ebin" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/erlang/23.1.1/lib/public_key-1.9.1/ebin" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/erlang/23.1.1/lib/os_mon-2.6.1/ebin" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/erlang/23.1.1/lib/debugger-5.0/ebin" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/erlang/23.1.1/lib/kernel-7.1/ebin" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/erlang/23.1.1/lib/reltool-0.8/ebin" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/erlang/23.1.1/lib/snmp-5.6.1/ebin" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/erlang/23.1.1/lib/eldap-1.2.8/ebin" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/erlang/23.1.1/lib/sasl-4.0.1/ebin" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/erlang/23.1.1/lib/asn1-5.0.14/ebin" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/erlang/23.1.1/lib/tools-3.4.1/ebin" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/erlang/23.1.1/lib/dialyzer-4.2.1/ebin" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/erlang/23.1.1/lib/xmerl-1.3.25/ebin" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/erlang/23.1.1/lib/common_test-1.19/ebin" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/erlang/23.1.1/lib/runtime_tools-1.15.1/ebin" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/erlang/23.1.1/lib/observer-2.9.5/ebin" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite">
+            <root url="https://hexdoc.pm/elixir/1.12.3-otp-23" type="simple" />
+            <root url="https://hexdoc.pm/ex_unit/1.12.3-otp-23" type="simple" />
+            <root url="https://hexdoc.pm/mix/1.12.3-otp-23" type="simple" />
+            <root url="https://hexdoc.pm/eex/1.12.3-otp-23" type="simple" />
+            <root url="https://hexdoc.pm/iex/1.12.3-otp-23" type="simple" />
+            <root url="http://www.erlang.org/documentation/doc-12.1.5" type="simple" />
+            <root url="https://hexdoc.pm/logger/1.12.3-otp-23" type="simple" />
+          </root>
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/.asdf/installs/elixir/1.12.3-otp-23/lib/logger/lib" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/elixir/1.12.3-otp-23/lib/elixir/lib" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/elixir/1.12.3-otp-23/lib/ex_unit/lib" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/elixir/1.12.3-otp-23/lib/mix/lib" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/elixir/1.12.3-otp-23/lib/eex/lib" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/elixir/1.12.3-otp-23/lib/iex/lib" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/erlang/24.1.6/lib" type="simple" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional erlang-sdk-name="Erlang for Elixir 23" />
+    </jdk>
+    <jdk version="2">
+      <name value="Elixir 1.12.3-otp-24" />
+      <type value="Elixir SDK" />
+      <version value="1.12.3-otp-24" />
+      <homePath value="$USER_HOME$/.asdf/installs/elixir/1.12.3-otp-24" />
+      <roots>
+        <annotationsPath>
+          <root type="composite" />
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/.asdf/installs/elixir/1.12.3-otp-24/lib/logger/ebin" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/elixir/1.12.3-otp-24/lib/elixir/ebin" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/elixir/1.12.3-otp-24/lib/ex_unit/ebin" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/elixir/1.12.3-otp-24/lib/mix/ebin" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/elixir/1.12.3-otp-24/lib/eex/ebin" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/elixir/1.12.3-otp-24/lib/iex/ebin" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/erlang/24.1.6/lib/os_mon-2.7.1/ebin" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/erlang/24.1.6/lib/diameter-2.2.4/ebin" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/erlang/24.1.6/lib/tools-3.5.1/ebin" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/erlang/24.1.6/lib/ssl-10.5.3/ebin" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/erlang/24.1.6/lib/erts-12.1.5/ebin" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/erlang/24.1.6/lib/tftp-1.0.3/ebin" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/erlang/24.1.6/lib/mnesia-4.20/ebin" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/erlang/24.1.6/lib/edoc-1.0.1/ebin" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/erlang/24.1.6/lib/debugger-5.2/ebin" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/erlang/24.1.6/lib/xmerl-1.3.28/ebin" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/erlang/24.1.6/lib/ftp-1.1/ebin" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/erlang/24.1.6/lib/asn1-5.0.17/ebin" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/erlang/24.1.6/lib/syntax_tools-2.6/ebin" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/erlang/24.1.6/lib/ssh-4.12.4/ebin" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/erlang/24.1.6/lib/megaco-4.1/ebin" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/erlang/24.1.6/lib/public_key-1.11.3/ebin" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/erlang/24.1.6/lib/kernel-8.1.3/ebin" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/erlang/24.1.6/lib/eunit-2.7/ebin" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/erlang/24.1.6/lib/et-1.6.5/ebin" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/erlang/24.1.6/lib/observer-2.10/ebin" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/erlang/24.1.6/lib/parsetools-2.3.1/ebin" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/erlang/24.1.6/lib/erl_interface-5.1/ebin" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/erlang/24.1.6/lib/eldap-1.2.9/ebin" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/erlang/24.1.6/lib/reltool-0.9/ebin" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/erlang/24.1.6/lib/snmp-5.10.1/ebin" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/erlang/24.1.6/lib/wx-2.1/ebin" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/erlang/24.1.6/lib/stdlib-3.16.1/ebin" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/erlang/24.1.6/lib/runtime_tools-1.17/ebin" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/erlang/24.1.6/lib/inets-7.4.2/ebin" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/erlang/24.1.6/lib/erl_docgen-1.1.2/ebin" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/erlang/24.1.6/lib/compiler-8.0.3/ebin" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/erlang/24.1.6/lib/crypto-5.0.4/ebin" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/erlang/24.1.6/lib/sasl-4.1/ebin" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/erlang/24.1.6/lib/common_test-1.21/ebin" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/erlang/24.1.6/lib/dialyzer-4.4.2/ebin" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite">
+            <root url="https://hexdoc.pm/logger/1.12.3-otp-24" type="simple" />
+            <root url="https://hexdoc.pm/elixir/1.12.3-otp-24" type="simple" />
+            <root url="https://hexdoc.pm/ex_unit/1.12.3-otp-24" type="simple" />
+            <root url="https://hexdoc.pm/mix/1.12.3-otp-24" type="simple" />
+            <root url="https://hexdoc.pm/eex/1.12.3-otp-24" type="simple" />
+            <root url="https://hexdoc.pm/iex/1.12.3-otp-24" type="simple" />
+            <root url="http://www.erlang.org/documentation/doc-12.1.5" type="simple" />
+          </root>
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/.asdf/installs/elixir/1.12.3-otp-24/lib/logger/lib" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/elixir/1.12.3-otp-24/lib/elixir/lib" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/elixir/1.12.3-otp-24/lib/ex_unit/lib" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/elixir/1.12.3-otp-24/lib/mix/lib" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/elixir/1.12.3-otp-24/lib/eex/lib" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/elixir/1.12.3-otp-24/lib/iex/lib" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/erlang/24.1.6/lib" type="simple" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional erlang-sdk-name="Erlang for Elixir 24" />
+    </jdk>
+    <jdk version="2">
+      <name value="Erlang for Elixir 23" />
+      <type value="Erlang SDK for Elixir SDK" />
+      <version value="23" />
+      <homePath value="$USER_HOME$/.asdf/installs/erlang/23.1.1" />
+      <roots>
+        <annotationsPath>
+          <root type="composite" />
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/.asdf/installs/erlang/23.1.1/lib/ssh-4.10.2/ebin" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/erlang/23.1.1/lib/megaco-3.19.3/ebin" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/erlang/23.1.1/lib/diameter-2.2.3/ebin" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/erlang/23.1.1/lib/tftp-1.0.2/ebin" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/erlang/23.1.1/lib/hipe-4.0.1/ebin" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/erlang/23.1.1/lib/ssl-10.1/ebin" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/erlang/23.1.1/lib/odbc-2.13.1/ebin" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/erlang/23.1.1/lib/mnesia-4.18/ebin" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/erlang/23.1.1/lib/wx-1.9.1/ebin" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/erlang/23.1.1/lib/erl_interface-4.0.1/ebin" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/erlang/23.1.1/lib/crypto-4.8/ebin" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/erlang/23.1.1/lib/jinterface-1.11/ebin" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/erlang/23.1.1/lib/edoc-0.12/ebin" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/erlang/23.1.1/lib/ftp-1.0.5/ebin" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/erlang/23.1.1/lib/stdlib-3.13.2/ebin" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/erlang/23.1.1/lib/compiler-7.6.4/ebin" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/erlang/23.1.1/lib/inets-7.3/ebin" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/erlang/23.1.1/lib/syntax_tools-2.3.1/ebin" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/erlang/23.1.1/lib/erts-11.1.1/ebin" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/erlang/23.1.1/lib/erl_docgen-1.0.1/ebin" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/erlang/23.1.1/lib/eunit-2.6/ebin" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/erlang/23.1.1/lib/parsetools-2.2/ebin" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/erlang/23.1.1/lib/et-1.6.4/ebin" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/erlang/23.1.1/lib/public_key-1.9.1/ebin" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/erlang/23.1.1/lib/os_mon-2.6.1/ebin" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/erlang/23.1.1/lib/debugger-5.0/ebin" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/erlang/23.1.1/lib/kernel-7.1/ebin" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/erlang/23.1.1/lib/reltool-0.8/ebin" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/erlang/23.1.1/lib/snmp-5.6.1/ebin" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/erlang/23.1.1/lib/eldap-1.2.8/ebin" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/erlang/23.1.1/lib/sasl-4.0.1/ebin" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/erlang/23.1.1/lib/asn1-5.0.14/ebin" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/erlang/23.1.1/lib/tools-3.4.1/ebin" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/erlang/23.1.1/lib/dialyzer-4.2.1/ebin" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/erlang/23.1.1/lib/xmerl-1.3.25/ebin" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/erlang/23.1.1/lib/common_test-1.19/ebin" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/erlang/23.1.1/lib/runtime_tools-1.15.1/ebin" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/erlang/23.1.1/lib/observer-2.9.5/ebin" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+  </component>
+</application>
